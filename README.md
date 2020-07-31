@@ -1,3 +1,12 @@
+# Exercise Tracker 
+
+This project is my first experiment with MERN stack 
+
+### This project uses
+* MongoDB as service for DB
+* ExpressJS web server 
+* React FrontEnd
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
